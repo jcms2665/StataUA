@@ -1,12 +1,16 @@
 # Stata
 
-Bogotá, Colombia, 21 de Agosto de 2017
+Bogotá, Colombia, Agosto de 2017
+
+
 
 
 #### Objetivo del taller. 
 
 
 Introducir al participante en el uso del paquete estadístico *Stata*.
+
+
 
 
 
@@ -17,6 +21,8 @@ Introducir al participante en el uso del paquete estadístico *Stata*.
 +  Medidas de tendencia central. 
 
 +  Introducción a Stata.
+
+
 
 
 
